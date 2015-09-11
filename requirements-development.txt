@@ -1,0 +1,12 @@
+-r requirements.txt
+
+responses
+
+# Test tools
+tox
+nose
+yanc
+coverage
+ipdb
+mock
+pylint

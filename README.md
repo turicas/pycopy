@@ -12,7 +12,7 @@
 ## Features
 
 - Dropbox-compatible Python API
-- Python3 and PyPy support
+- Python2, Python3 and PyPy support
 
 ## Developing
 
